@@ -10,4 +10,6 @@ let taskManager= (function(){
       };
 })()
 taskManager.addTask('do laundry');
+taskManager.addTask('wash dishes');
+taskManager.addTask('mow lawn');
 taskManager.displayTasks()
